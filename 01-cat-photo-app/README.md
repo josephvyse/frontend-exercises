@@ -23,7 +23,6 @@ A beginner-friendly project built with **HTML5** and **CSS3**. This project is p
 
 ## 📷 Screenshot
 ![Cat Photo App Screenshot](screenshot.png)  
-*(Add a file named `screenshot.png` in this folder to display it here.)*  
 
 ---
 
@@ -34,4 +33,5 @@ A beginner-friendly project built with **HTML5** and **CSS3**. This project is p
 - Applying CSS for **typography, spacing, and responsive layouts**.  
 
 ---
+
 
