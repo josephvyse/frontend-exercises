@@ -1,9 +1,3 @@
-
----
-
-## 📑 Example Project README 
-
-
 # 01 Cat Photo App
 
 A beginner project built with **HTML5** and **CSS3**. This project is part of my front-end learning journey.
@@ -26,4 +20,5 @@ A beginner project built with **HTML5** and **CSS3**. This project is part of my
 - How to structure a simple HTML document
 - Linking images and external resources
 - Applying basic CSS styling
+
 
