@@ -8,7 +8,7 @@
 
 A beginner project built with **HTML5** and **CSS3**. This project is part of my front-end learning journey.
 
-🔗 [Live Demo](https://yourusername.github.io/frontend-exercises/01-cat-photo-app/)
+🔗 [Live Demo](https://josephvyse.github.io/Responsive-Web-Design/01-Cat-Photo-App/)
 
 ## Features
 - Basic HTML structure
@@ -26,3 +26,4 @@ A beginner project built with **HTML5** and **CSS3**. This project is part of my
 - How to structure a simple HTML document
 - Linking images and external resources
 - Applying basic CSS styling
+
