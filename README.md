@@ -1,7 +1,7 @@
 # Responsive-Web-Design
 HTML, CSS course exercises with a few touch up (animation, hover, etc.)
 
-##Frontend Exercises
+## Frontend Exercises
 
 This repository contains my HTML & CSS practice projects. 
 Each project is organized in its own subfolder with its own README and screenshot.
