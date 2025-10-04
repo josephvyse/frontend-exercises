@@ -7,3 +7,5 @@ This repository contains my HTML & CSS practice projects.
 Each project is organized in its own subfolder with its own README and screenshot.
 
 [Cat Photo App](https://josephvyse.github.io/frontend-exercises/01-cat-photo-app/)
+[Cafe Menu](https://josephvyse.github.io/frontend-exercises/02-cafe-menu/)
+
