@@ -10,3 +10,4 @@ Each project is organized in its own subfolder with its own README and screensho
 - Live Demo [Cafe Menu](https://josephvyse.github.io/frontend-exercises/02-cafe-menu/)
 - Live Demo [Colored Marker](https://josephvyse.github.io/frontend-exercises/03-colored-markers/)
 - Live Demo [Registration Form](https://josephvyse.github.io/frontend-exercises/04-registration-form/)
+- Live Demo [Rothko Painting](https://josephvyse.github.io/frontend-exercises/05-rothko-painting/)
