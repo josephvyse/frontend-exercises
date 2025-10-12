@@ -14,3 +14,4 @@ Each project is organized in its own subfolder with its own README and screensho
 - Live Demo [Photo Gallery](https://josephvyse.github.io/frontend-exercises/06-photo-gallery/)
 - Live Demo [Nutrition Label](https://josephvyse.github.io/frontend-exercises/07-nutrition-label/)
 - Live Demo [Accesibility Quiz](https://josephvyse.github.io/frontend-exercises/08-accessibility-quiz/)
+- Live Demo [Balance Sheet](https://josephvyse.github.io/frontend-exercises/09-balance-sheet/)
