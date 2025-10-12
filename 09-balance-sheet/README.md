@@ -36,5 +36,3 @@ This project is part of my front-end development practice inspired by the FreeCo
 - Enhancing design clarity with **gradients, borders, and spacing**.  
 
 ---
-
-## 📁 Folder Structure  
